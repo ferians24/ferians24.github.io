@@ -32,9 +32,9 @@ function initializeApp(){
         }else{
             if(send===true || send==="true")
                 if(tp==="a"){
-                    uriz="line://app/1594186791-68nJXojp/?type=sticker&tstk=animasi&stkid="+sid+"&stkpkgid="+pkg+"&send=true";
+                    uriz="line://app/1562073907-ONeYNBxK/?type=sticker&tstk=animasi&stkid="+sid+"&stkpkgid="+pkg+"&send=true";
                 }else{
-                    uriz="line://app/1594186791-68nJXojp/?type=sticker&tstk=anime&stkid="+sid+"&stkpkgid="+pkg+"&send=true";
+                    uriz="line://app/1562073907-ONeYNBxK/?type=sticker&tstk=anime&stkid="+sid+"&stkpkgid="+pkg+"&send=true";
                 }
         }
         liff.sendMessages([{
